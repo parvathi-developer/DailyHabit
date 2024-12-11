@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466429589976",
+    "project_id": "habitapp-90d4b",
+    "storage_bucket": "habitapp-90d4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466429589976:android:e21332c79ce0ac547cdaad",
+        "android_client_info": {
+          "package_name": "com.example.habit_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgO9mV_qsAfFcfxrmHvxWfpZ3NM9LeA4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
